@@ -41,7 +41,8 @@
     "/",
     "//embedded note",
     "//embedded note/embedded note/daily_note",
-    "//embedded note/embedded note/notion"
+    "//embedded note/embedded note/notion",
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
