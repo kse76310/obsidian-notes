@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embedded note/daily_note/2025-04-22.md",
+                "file": "embedded note/daily_note/2025-04-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-22 의 개요"
+              "title": "2025-04-23 의 개요"
             }
           },
           {
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,9 +203,9 @@
   },
   "active": "0cdca5a60b30cd56",
   "lastOpenFiles": [
-    "embedded note/daily_note/2025-04-22.md",
-    "embedded note/daily_note/2025-04-23.md",
     "embedded note/notion/임베디드 공부 루틴.md",
+    "embedded note/daily_note/2025-04-23.md",
+    "embedded note/daily_note/2025-04-22.md",
     "README.md",
     "Pasted image 20250422163415.png",
     "링크.md",
