@@ -40,7 +40,8 @@
   "expandedSpaces": [
     "/",
     "//embedded note",
-    "//embedded note/embedded note/daily_note"
+    "//embedded note/embedded note/daily_note",
+    "//embedded note/embedded note/notion"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

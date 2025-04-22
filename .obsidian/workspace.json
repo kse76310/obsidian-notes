@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "7d8d4b20d6169e6d",
+            "id": "ee08e82268b5fd12",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,16 +197,16 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "34f39b466154c53f",
   "lastOpenFiles": [
-    "README.md",
-    "embedded note/daily_note/2025-04-22.md",
-    "embedded note/notion/환영합니다!.md",
     "embedded note/daily_note/무제.md",
+    "embedded note/daily_note/2025-04-22.md",
+    "embedded note/notion/임베디드 공부 루틴.md",
+    "README.md",
     "Tags",
     "embedded note/daily_note",
     "embedded note/notion",
