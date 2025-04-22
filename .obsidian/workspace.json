@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4fd560b0dd3060e",
+        "id": "695b076f726c7585",
         "type": "tabs",
         "children": [
           {
-            "id": "34f39b466154c53f",
+            "id": "44b8ace3c71e9c8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,10 +202,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "34f39b466154c53f",
+  "active": "44b8ace3c71e9c8c",
   "lastOpenFiles": [
-    "embedded note/notion/임베디드 공부 루틴.md",
+    "Pasted image 20250422163415.png",
+    "링크.md",
     "embedded note/daily_note/2025-04-22.md",
+    "[임베디드 공부 루틴.md",
+    "embedded note/notion/임베디드 공부 루틴.md",
     "embedded note/daily_note/무제.md",
     "README.md",
     "Tags",
