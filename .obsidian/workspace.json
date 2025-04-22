@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded note/daily_note/2025-04-22.md",
+                "file": "embedded note/notion/임베디드 공부 루틴.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "임베디드 공부 루틴"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "ee08e82268b5fd12",
+            "id": "f1cee5f7ed6847af",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -203,9 +203,9 @@
   },
   "active": "34f39b466154c53f",
   "lastOpenFiles": [
-    "embedded note/daily_note/무제.md",
     "embedded note/daily_note/2025-04-22.md",
     "embedded note/notion/임베디드 공부 루틴.md",
+    "embedded note/daily_note/무제.md",
     "README.md",
     "Tags",
     "embedded note/daily_note",
