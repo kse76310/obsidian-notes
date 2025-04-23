@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded note/daily_note/2025-04-22.md",
+                "file": "embedded note/daily_note/2025-04-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-22"
+              "title": "2025-04-23"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embedded note/daily_note/2025-04-22.md",
+                "file": "embedded note/daily_note/2025-04-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-22 의 개요"
+              "title": "2025-04-23 의 개요"
             }
           },
           {
@@ -181,9 +181,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ee4d36968c54ca1b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,13 +216,13 @@
   },
   "active": "0cdca5a60b30cd56",
   "lastOpenFiles": [
+    "embedded note/daily_note/2025-04-22.md",
     "embedded note/daily_note/2025-04-23.md",
     "embedded note/notion/회귀모델 개념.md",
     "링크.md",
     "Pasted image 20250423095225.png",
     "embedded note/notion/ROS.md",
     "C언어_ROS_퀴즈.pdf",
-    "embedded note/daily_note/2025-04-22.md",
     "embedded note/notion/임베디드 공부 루틴.md",
     "무제.canvas",
     "2025-04-23.md",
