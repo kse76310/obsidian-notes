@@ -199,16 +199,17 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "0cdca5a60b30cd56",
   "lastOpenFiles": [
+    "embedded note/daily_note/2025-04-22.md",
+    "embedded note/daily_note/2025-04-23.md",
     "링크.md",
     "embedded note/notion/임베디드 공부 루틴.md",
-    "embedded note/daily_note/2025-04-23.md",
     "무제.canvas",
-    "embedded note/daily_note/2025-04-22.md",
     "2025-04-23.md",
     "README.md",
     "Pasted image 20250422163415.png",
