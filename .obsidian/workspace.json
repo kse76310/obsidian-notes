@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded note/notion/회귀모델 개념.md",
+                "file": "embedded note/daily_note/2025-04-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "회귀모델 개념"
+              "title": "2025-04-23"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embedded note/notion/회귀모델 개념.md",
+                "file": "embedded note/daily_note/2025-04-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "회귀모델 개념 의 개요"
+              "title": "2025-04-23 의 개요"
             }
           },
           {
@@ -205,8 +205,8 @@
   },
   "active": "0cdca5a60b30cd56",
   "lastOpenFiles": [
-    "embedded note/daily_note/2025-04-23.md",
     "embedded note/notion/회귀모델 개념.md",
+    "embedded note/daily_note/2025-04-23.md",
     "링크.md",
     "Pasted image 20250423095225.png",
     "embedded note/notion/ROS.md",
