@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded note/notion/임베디드 공부 루틴.md",
+                "file": "embedded note/daily_note/2025-04-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "임베디드 공부 루틴"
+              "title": "2025-04-23"
             }
           }
         ]
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embedded note/notion/임베디드 공부 루틴.md",
+                "file": "embedded note/daily_note/2025-04-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "임베디드 공부 루틴 의 개요"
+              "title": "2025-04-23 의 개요"
             }
           },
           {
@@ -198,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,6 +216,7 @@
   },
   "active": "0cdca5a60b30cd56",
   "lastOpenFiles": [
+    "embedded note/notion/임베디드 공부 루틴.md",
     "링크.md",
     "embedded note/daily_note/2025-04-23.md",
     "embedded note/notion/회귀모델_정리.md",
@@ -225,7 +225,6 @@
     "Pasted image 20250423095225.png",
     "embedded note/notion/ROS.md",
     "C언어_ROS_퀴즈.pdf",
-    "embedded note/notion/임베디드 공부 루틴.md",
     "무제.canvas",
     "2025-04-23.md",
     "README.md",
