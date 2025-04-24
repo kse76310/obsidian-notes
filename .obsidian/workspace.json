@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded note/daily_note/2025-04-24.md",
+                "file": "embedded note/daily_note/2025-04-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-24"
+              "title": "2025-04-25"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "9d3e5afbe7b7736b",
+            "id": "18d04c8142fb49af",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -215,8 +215,9 @@
   },
   "active": "930cf798083ae052",
   "lastOpenFiles": [
-    "자료/05_딥러닝알아보기.pdf",
     "embedded note/daily_note/2025-04-24.md",
+    "embedded note/daily_note/2025-04-25.md",
+    "자료/05_딥러닝알아보기.pdf",
     "자료/Pasted image 20250422163415.png",
     "자료/Pasted image 20250423095225.png",
     "자료/Pasted image 20250424093508.png",
