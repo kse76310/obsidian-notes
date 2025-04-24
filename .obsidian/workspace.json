@@ -11,12 +11,14 @@
             "id": "930cf798083ae052",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "자료/Pasted image 20250422163415.png"
+                "file": "embedded note/daily_note/2025-04-24.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250422163415"
+              "icon": "lucide-file",
+              "title": "2025-04-24"
             }
           }
         ]
@@ -212,12 +214,12 @@
   },
   "active": "930cf798083ae052",
   "lastOpenFiles": [
+    "자료/Pasted image 20250422163415.png",
     "자료/Pasted image 20250423095225.png",
     "자료/Pasted image 20250424093508.png",
     "자료/Pasted image 20250424103112.png",
     "embedded note/daily_note/2025-04-24.md",
     "자료/C언어_ROS_퀴즈.pdf",
-    "자료/Pasted image 20250422163415.png",
     "자료",
     "무제.canvas",
     "embedded note/daily_note/2025-04-22.md",
