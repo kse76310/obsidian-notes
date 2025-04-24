@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7f611937f054d8be",
+        "id": "f12660778a9fa72f",
         "type": "tabs",
         "children": [
           {
-            "id": "4dfb12416e42456c",
+            "id": "930cf798083ae052",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -212,11 +212,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4dfb12416e42456c",
+  "active": "930cf798083ae052",
   "lastOpenFiles": [
     "embedded note/notion/딥러닝(DNN).md",
-    "링크.md",
     "embedded note/notion/임베디드 공부 루틴.md",
+    "링크.md",
     "embedded note/daily_note/2025-04-24.md",
     "Pasted image 20250424093508.png",
     "embedded note/daily_note/2025-04-23.md",
