@@ -84,13 +84,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d7ab245f286025ab",
@@ -216,11 +214,15 @@
   },
   "active": "930cf798083ae052",
   "lastOpenFiles": [
+    "embedded note/daily_note/2025-04-22.md",
+    "C언어_ROS_퀴즈.pdf",
+    "Pasted image 20250422163415.png",
+    "Pasted image 20250423095225.png",
+    "Pasted image 20250424103112.png",
+    "Pasted image 20250424103119.png",
     "embedded note/daily_note/2025-04-24.md",
     "Pasted image 20250424103133.png",
     "Pasted image 20250424103128.png",
-    "Pasted image 20250424103119.png",
-    "Pasted image 20250424103112.png",
     "embedded note/notion/딥러닝(DNN).md",
     "embedded note/notion/임베디드 공부 루틴.md",
     "링크.md",
@@ -228,14 +230,10 @@
     "embedded note/daily_note/2025-04-23.md",
     "embedded note/notion/회귀모델_정리.md",
     "embedded note/notion/회귀모델 개념.md",
-    "embedded note/daily_note/2025-04-22.md",
-    "Pasted image 20250423095225.png",
     "embedded note/notion/ROS.md",
-    "C언어_ROS_퀴즈.pdf",
     "무제.canvas",
     "2025-04-23.md",
     "README.md",
-    "Pasted image 20250422163415.png",
     "[임베디드 공부 루틴.md",
     "embedded note/daily_note/무제.md",
     "Tags",
