@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded note/daily_note/2025-04-24.md",
+                "file": "embedded note/notion/무제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-24"
+              "title": "무제"
             }
           }
         ]
@@ -85,12 +85,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d7ab245f286025ab",
@@ -215,9 +214,10 @@
   },
   "active": "0cdca5a60b30cd56",
   "lastOpenFiles": [
+    "embedded note/daily_note/2025-04-24.md",
+    "embedded note/notion/무제.md",
     "Pasted image 20250424093508.png",
     "embedded note/daily_note/2025-04-23.md",
-    "embedded note/daily_note/2025-04-24.md",
     "embedded note/notion/임베디드 공부 루틴.md",
     "링크.md",
     "embedded note/notion/회귀모델_정리.md",
