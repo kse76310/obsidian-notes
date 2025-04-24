@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d7ab245f286025ab",
@@ -213,8 +212,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "930cf798083ae052",
+  "active": "495f31b1cc9348ab",
   "lastOpenFiles": [
+    "무제",
     "무제.canvas",
     "embedded note/daily_note/2025-04-24.md",
     "embedded note/daily_note/2025-04-22.md",
