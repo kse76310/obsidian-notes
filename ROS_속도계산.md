@@ -2,13 +2,13 @@
 
 
 - 평균 속도를 계산하는 방법
-	$Vavg = dt/tt$
+	$Vavg = {d_t}{t_t}$
 	
 - 최대 속도를 계산하는 방법
-	$V_{max} = 2*Vavg$
+	$V_{max} = 2\cdot V_{avg}$
 	
 - 가속도를 계산하는 방법
-	$a = Vmax/ta$
+	$a = V_{max}/t_a$
 	
 - 총 거리를 계산하는 방법
 	$dt = (1/2) * tt * Vmax$
