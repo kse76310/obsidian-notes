@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-04-25"
             }
+          },
+          {
+            "id": "5471cf98d2661de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS_속도계산.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROS_속도계산"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,10 +227,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c514c5ffb4bf4647",
+  "active": "5471cf98d2661de6",
   "lastOpenFiles": [
-    "embedded note/daily_note/2025-04-24.md",
     "embedded note/daily_note/2025-04-25.md",
+    "ROS_속도계산.md",
+    "embedded note/daily_note/2025-04-24.md",
     "embedded note/daily_note/2025-04-23.md",
     "앙상블 기법.md",
     "Pasted image 20250426134716.png",
