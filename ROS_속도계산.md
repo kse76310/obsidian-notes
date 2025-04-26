@@ -2,7 +2,7 @@
 
 
 - 평균 속도를 계산하는 방법
-	$Vavg = {\partd_t}{\partical t_t}$
+	$Vavg = d_t/t_t$
 	
 - 최대 속도를 계산하는 방법
 	$V_{max} = 2\cdot V_{avg}$
@@ -11,10 +11,10 @@
 	$a = V_{max}/t_a$
 	
 - 총 거리를 계산하는 방법
-	$dt = (1/2) * tt * Vmax$
+	$d_t = (1/2) \cdot t_t \cdot V_{max}$
 	
 - 가속도 거리를 계산하는 방법
-	$da = (1/2) * ta * Vmax$
+	$da = (1/2) * ta \cdot V_{max}$
 
 
 ![[Pasted image 20250426151154.png]]
