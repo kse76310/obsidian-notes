@@ -35,7 +35,8 @@
               "title": "혼동행렬(confusion matrix)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,10 +227,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "930cf798083ae052",
+  "active": "86320bbbfe656c15",
   "lastOpenFiles": [
-    "혼동행렬(confusion matrix).md",
     "embedded note/daily_note/2025-04-25.md",
+    "혼동행렬(confusion matrix).md",
     "embedded note/daily_note/2025-04-22.md",
     "embedded note/notion/임베디드 공부 루틴.md",
     "embedded note/notion/무제.md",
