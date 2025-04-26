@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "혼동행렬(confusion matrix).md",
+                "file": "embedded note/daily_note/2025-04-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "혼동행렬(confusion matrix)"
+              "title": "2025-04-25"
             }
           },
           {
@@ -228,8 +228,8 @@
   },
   "active": "930cf798083ae052",
   "lastOpenFiles": [
-    "embedded note/daily_note/2025-04-22.md",
     "혼동행렬(confusion matrix).md",
+    "embedded note/daily_note/2025-04-22.md",
     "embedded note/notion/임베디드 공부 루틴.md",
     "embedded note/notion/무제.md",
     "링크.md",
