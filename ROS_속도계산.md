@@ -31,7 +31,7 @@
 	$Vmax = 1.5 * dt/tt$
 
 - 평균 속도를 계산하는 방법
-	$Vavg = dt/tt$
+	$V_{avg} = d_t/t_t$
 
 -  가속도를 계산하는 방법
 	$a = V_max_/t_a$
