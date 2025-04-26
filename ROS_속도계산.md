@@ -25,4 +25,7 @@
 	$dt = da + dc + dd$
 	$dt=((1/2) * b * h) + (b * h) + ((1/2) * b * h)$
 	$dt = ((1/2) * ta * Vmax) + (tc * Vmax) + ((1/2) * td * Vmax)$
-	$dt = ($
+	$dt = (2/3) * tt * Vmax$
+
+- 최대 속도를 계산하는 방법
+	$Vmax = 1.5 *$
