@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "머신러닝 회귀 알고리즘.md",
+                "file": "앙상블 기법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "머신러닝 회귀 알고리즘"
+              "title": "앙상블 기법"
             }
           }
         ]
@@ -214,12 +214,13 @@
   },
   "active": "930cf798083ae052",
   "lastOpenFiles": [
-    "embedded note/daily_note/2025-04-22.md",
+    "embedded note/daily_note/2025-04-23.md",
+    "앙상블 기법.md",
     "머신러닝 회귀 알고리즘.md",
+    "embedded note/daily_note/2025-04-22.md",
     "Pasted image 20250426133316.png",
     "!note.md",
     "자료/Pasted image 20250426132353.png",
-    "embedded note/daily_note/2025-04-23.md",
     "embedded note/daily_note/2025-04-25.md",
     "혼동행렬(confusion matrix).md",
     "embedded note/notion/임베디드 공부 루틴.md",
