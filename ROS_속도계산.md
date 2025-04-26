@@ -2,7 +2,7 @@
 
 
 - 평균 속도를 계산하는 방법
-	$Vavg = {d_t}{t_t}$
+	$Vavg = {\partd_t}{\partical t_t}$
 	
 - 최대 속도를 계산하는 방법
 	$V_{max} = 2\cdot V_{avg}$
