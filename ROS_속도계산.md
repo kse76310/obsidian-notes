@@ -14,7 +14,7 @@
 	$d_t = (1/2) \cdot t_t \cdot V_{max}$
 	
 - 가속도 거리를 계산하는 방법
-	$da = (1/2) * ta \cdot V_{max}$
+	$d_a = (1/2) \cdot t_a \cdot V_{max}$
 
 
 ![[Pasted image 20250426151154.png]]
