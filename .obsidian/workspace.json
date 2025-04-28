@@ -197,7 +197,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +214,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "862342e63efd1111",
+  "active": "c514c5ffb4bf4647",
   "lastOpenFiles": [
     "embedded note/daily_note/2025-04-22.md",
     "embedded note/daily_note/2025-04-28.md",
