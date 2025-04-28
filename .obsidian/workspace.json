@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d7ab245f286025ab",
@@ -212,16 +213,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c4bc32a742586e7e",
+  "active": "c514c5ffb4bf4647",
   "lastOpenFiles": [
-    "ROS_속도계산.md",
-    "embedded note/daily_note/2025-04-28.md",
-    "자료/Pasted image 20250426151923.png",
     "embedded note/daily_note/2025-04-25.md",
+    "embedded note/daily_note/2025-04-23.md",
+    "embedded note/daily_note/2025-04-28.md",
+    "embedded note/daily_note/2025-04-24.md",
+    "ROS_속도계산.md",
+    "자료/Pasted image 20250426151923.png",
     "자료/Pasted image 20250426133316.png",
     "자료/Pasted image 20250426151154.png",
-    "embedded note/daily_note/2025-04-24.md",
-    "embedded note/daily_note/2025-04-23.md",
     "앙상블 기법.md",
     "자료/Pasted image 20250426134716.png",
     "자료/Pasted image 20250426134642.png",
