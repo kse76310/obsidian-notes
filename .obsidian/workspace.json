@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d7ab245f286025ab",
@@ -153,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "embedded note/daily_note/2025-04-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2025-04-28 의 개요"
             }
           },
           {
@@ -192,12 +192,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,7 +212,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c514c5ffb4bf4647",
+  "active": "c4bc32a742586e7e",
   "lastOpenFiles": [
     "ROS_속도계산.md",
     "embedded note/daily_note/2025-04-28.md",
