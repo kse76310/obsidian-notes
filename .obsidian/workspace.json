@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d7ab245f286025ab",
@@ -212,7 +213,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "495f31b1cc9348ab",
+  "active": "c514c5ffb4bf4647",
   "lastOpenFiles": [
     "ROS_속도계산.md",
     "embedded note/daily_note/2025-04-28.md",
