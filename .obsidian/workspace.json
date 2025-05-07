@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "embedded note/daily_note/2025-04-28.md",
+                "file": "embedded note/daily_note/2025-05-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-04-28 의 개요"
+              "title": "2025-05-07 의 개요"
             }
           },
           {
@@ -193,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -216,6 +216,7 @@
   },
   "active": "8f515623c96374c4",
   "lastOpenFiles": [
+    "Pasted image 20250507124709.png",
     "Pasted image 20250507123452.png",
     "Pasted image 20250507123437.png",
     "Pasted image 20250507123302.png",
@@ -237,7 +238,6 @@
     "embedded note/daily_note/2025-04-23.md",
     "embedded note/daily_note/2025-04-24.md",
     "ROS_속도계산.md",
-    "자료/Pasted image 20250426151923.png",
     "앙상블 기법.md",
     "머신러닝 회귀 알고리즘.md",
     "!note.md",
