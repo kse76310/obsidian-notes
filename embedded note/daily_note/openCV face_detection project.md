@@ -185,66 +185,37 @@ while True:
     ret, frame = cap.read()
     if not ret:
         break
-
     # 얼굴 검출 시도
-
     image, face = face_detector(frame)
-
     try:
-
         if len(face) != 0:  # face 배열이 비어있지 않은 경우에만
-
             face = cv2.cvtColor(face, cv2.COLOR_BGR2GRAY)
-
             # 위에서 학습한 모델로 예측하기
-
             result = model.predict(face)
-
             # result[1]은 신뢰도 값으로 0에 가까울수록 자신과 같다는 의미로 신뢰도가 높음
-
             if result[1] < 50:
-
                 confidence = int(100*(1-(result[1])/300))  # 신뢰도를 %로 나타냄
-
                 display_string = str(confidence)+'% Confidence it is user'  # 유사도 화면에 표시
-
                 cv2.putText(image, display_string, (100, 60), cv2.FONT_HERSHEY_COMPLEX, 1, (250, 120, 255), 2)
-
             # 75 보다 크면 동일 인물로 간주해 접근허가!
-
             if confidence > 75:
-
                 cv2.putText(image, "ACCESS GRANTED", (100, 100), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 255, 0), 2)
-
             else:
-
                # 75 이하면 타인.. 접근불가!!
-
                 cv2.putText(image, "ACCESS DENIED", (100, 100), cv2.FONT_HERSHEY_COMPLEX, 1, (0, 0, 255), 2)
-
         else:
-
             cv2.putText(image, "Face Not Found", (100, 100), cv2.FONT_HERSHEY_COMPLEX, 1, (255, 0, 0), 2)
-
     except Exception as e:
-
         print(f"처리 중 에러: {e}")
-
         cv2.putText(image, "Face Not Found", (100, 100), cv2.FONT_HERSHEY_COMPLEX, 1, (255, 0, 0), 2)
 
     # 화면 표시를 while 루프 안에서 한 번만 실행
-
     cv2.imshow('Face Cropper', image)
-
     # 키 입력 체크
-
     if cv2.waitKey(1) & 0xFF == ord('q'):
-
         break
 
-  
-
 cap.release()
-
 cv2.destroyAllWindows()
 ```
+
