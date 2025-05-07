@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d7ab245f286025ab",
@@ -215,6 +216,7 @@
   },
   "active": "8f515623c96374c4",
   "lastOpenFiles": [
+    "Pasted image 20250507122429.png",
     "Pasted image 20250507121813.png",
     "Pasted image 20250507121650.png",
     "embedded note/notion/openCV face_detection project.md",
@@ -237,7 +239,6 @@
     "자료/Pasted image 20250426151154.png",
     "앙상블 기법.md",
     "자료/Pasted image 20250426134716.png",
-    "자료/Pasted image 20250426134642.png",
     "머신러닝 회귀 알고리즘.md",
     "!note.md",
     "혼동행렬(confusion matrix).md",
