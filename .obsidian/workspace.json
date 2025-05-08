@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "embedded note/daily_note/2025-05-07.md",
+                "file": "embedded note/daily_note/2025-05-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-07"
+              "title": "2025-05-08"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "8ad8d1f659e35687",
+            "id": "7b345d28460f066e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -216,18 +216,18 @@
   },
   "active": "8f515623c96374c4",
   "lastOpenFiles": [
-    "Pasted image 20250507142704.png",
-    "Pasted image 20250507130042.png",
-    "Pasted image 20250507125719.png",
-    "Pasted image 20250507125522.png",
-    "자료/Pasted image 20250507121650.png",
+    "자료/Pasted image 20250507142704.png",
+    "자료/Pasted image 20250507125522.png",
+    "embedded note/daily_note/2025-05-08.md",
     "embedded note/daily_note/2025-05-07.md",
+    "자료/Pasted image 20250507130042.png",
+    "자료/Pasted image 20250507125719.png",
+    "자료/Pasted image 20250507121650.png",
     "자료/Pasted image 20250507125130.png",
     "자료/Pasted image 20250507125002.png",
     "자료/Pasted image 20250507124814.png",
     "자료/Pasted image 20250507124709.png",
     "자료/Pasted image 20250507123452.png",
-    "자료/Pasted image 20250507123437.png",
     "embedded note/notion/openCV face_detection project.md",
     "무제.md",
     "embedded note/daily_note/2025-04-29.md",
@@ -255,7 +255,6 @@
     "2025-04-23.md",
     "README.md",
     "[임베디드 공부 루틴.md",
-    "embedded note/daily_note/무제.md",
     "Tags",
     "embedded note/daily_note",
     "embedded note/notion",
